@@ -12,12 +12,14 @@
 
 ## 👥 TEAM IDENTIFICATION
 *To be completed by the Project Leader:*
-- **Project Leader:** [Full Name]
-- **Group Number:** [e.g., G1, G2...]
+- **Project Leader:** Khoudas Amina
+- **Group Number:** G3
 - **Team Members:**
-  1. [Name 1]
-  2. [Name 2]
-  3. [Name 3]
+  1. Abdi Karima
+  2. Boudhane Roudaina
+  3. bouchareb Douaa
+  4. khoudrane Hibat elRahman
+  5. Tacok Abla
 
 ---
 
