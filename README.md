@@ -16,10 +16,10 @@
 - **Group Number:** G3
 - **Team Members:**
   1. Abdi Karima
-  2. Boudhane Roudaina
-  3. bouchareb Douaa
-  4. khoudrane Hibat elRahman
-  5. Tacok Abla
+  2. Boudehane Roudaina
+  3. Bouchareb Douaa
+  4. KHOUDRANE Hiba-t Arrahmane
+  5. Takouk Abla
 
 ---
 
@@ -43,6 +43,16 @@
 * Modeling Young’s double-slit interference patterns.
 * Diffraction impact on resolution in Computer Vision.
 
+
+###  📍Project Overview :
+### 1.Mirage Phenomenon : 
+A mirage is an optical illusion caused by temperature differences in the air.
+Hot air near the ground has a lower refractive index than cooler air above it.
+Light bends gradually upward as it moves through these layers.
+Your brain interprets this curved light as a reflection, making the road look like water.
+### 2. The Microfilm (Converging Lenses):
+A converging lens forms a real image when the object is placed beyond its focal length. As the object approaches the focal point, incoming rays diverge more, causing the lens to project the image farther away and creating magnification. This principle is key to understanding image formation and lens behavior in optical systems.
+
 ---
 
 ## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
@@ -58,10 +68,10 @@
 
 ## 🔗 LIVE DEMO
 > **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, replace the URL below with your actual live link.
+| Simulation | Link |
+|------------|------|
+| Mirage Phenomenon | [Open Simulation](https://your-link-here) |
+| The Microfilm| https://deft-llama-abf3cc.netlify.app/ |
 
-[🚀 Click here to view the Interactive Simulation](https://your-username.github.io/your-repo-name/)
 
----
-
----
 **Thank you for your professional contribution!**
