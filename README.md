@@ -69,8 +69,8 @@ A converging lens forms a real image when the object is placed beyond its focal 
 ## 🔗 LIVE DEMO
 > **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, replace the URL below with your actual live link.
 
-## Mirage Phenomenon:(https://your-link-here](https://aminakhoudas.github.io/optique/)) |
-## The Microfilm: https://deft-llama-abf3cc.netlify.app/ |
+## Mirage Phenomenon: https://aminakhoudas.github.io/optique/
+## The Microfilm: https://deft-llama-abf3cc.netlify.app/ 
 
 
 **Thank you for your professional contribution!**
