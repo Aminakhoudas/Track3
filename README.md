@@ -53,6 +53,10 @@ Your brain interprets this curved light as a reflection, making the road look li
 ### 2. The Microfilm (Converging Lenses):
 A converging lens forms a real image when the object is placed beyond its focal length. As the object approaches the focal point, incoming rays diverge more, causing the lens to project the image farther away and creating magnification. This principle is key to understanding image formation and lens behavior in optical systems.
 
+### 3.The Atomic Whisper((Nano-Phononics)
+The Atomic Whisper (Nano-Phononics)
+A project that uses acoustic wave propagation and triangulation on a solid surface to detect and localize key presses by analyzing vibration signals at the nanoscale.
+
 ---
 
 ## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
